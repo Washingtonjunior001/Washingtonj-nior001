@@ -3,7 +3,7 @@
 Meu nome é Washington Junior
 
 - Estou estudando no Mitsusada Umetani
--  Estou estudando linguagem JavaScript
+-  Estou estudando a linguagem JavaScript
 -  utilizo esse espaço para minhas organizaçoes e compartilhamentos do meu projeto desenvolvido
 
 -  # Você entra em contato comigo
