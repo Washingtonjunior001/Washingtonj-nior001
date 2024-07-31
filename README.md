@@ -9,4 +9,4 @@ Meu nome é Washington Junior
 -  # Você entra em contato comigo
 
 -  00001087016940sp@al.educacao.sp.gov.br
--  chitaodosom@gmail.com ( E-mail da conta do git hub
+-  chitaodosom@gmail.com 
